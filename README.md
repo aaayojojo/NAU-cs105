@@ -1,4 +1,20 @@
-# NAU-cs105
-Group HW repository
+# HWK3: Collaboration With Github
 
-Isaac AshLind --> ia378
+Group repository: **NAU-cs105**
+
+
+
+*group members*
+
+| **Name**      | **CAS ID** |
+| :------------ | ---------- |
+| Isaac AshLind | ia378      |
+|               |            |
+|               |            |
+
+
+
+
+
+
+
