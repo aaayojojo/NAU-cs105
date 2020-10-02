@@ -6,10 +6,10 @@
 - [X] Commit 5 (Came back and tried to fix errors I saw in this file. It is getting a bit chaotic)
 - [X] Bonus 1 (Tried to fix my header)
 - [X] Bonus 2 (Fixed a "to" to a "so")
+- [X] Bonus 3 (Came to Update the file list)
 
-
-- [ ] Merge 1
-- [ ] Merge 2
+- [X] Merge 1 (Created Cool.md in CoolBranch and tried to put an image in it)
+- [X] Merge 2 (Edited Cool.md in OMEGAbranch and put a link in it)
 
 **Don't Really know what else to edit so I am going to edit this. Also there is a back to this booklet called Markdom Syntax so expect to see that.**
 
