@@ -1,9 +1,11 @@
-###Going to try a few different things from this Github Flavored Markdown booklet I have
+### Going to try a few different things from this Github Flavored Markdown booklet I have
 - [X] Commit 1 (This MD)
 - [X] Commit 2 (Updating the README) :+1:
 - [X] Commit 3 (Putting text in this MD) :rocket:
 - [X] Commit 4 _**(Edited this with new fun stuff)**_
 - [X] Commit 5 (Came back and tried to fix errors I saw in this file. It is getting a bit chaotic)
+- [X] Bonus 1 (Tried to fix my header)
+
 
 - [ ] Merge 1
 - [ ] Merge 2
