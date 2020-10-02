@@ -5,12 +5,13 @@
 - [X] Commit 4 _**(Edited this with new fun stuff)**_
 - [X] Commit 5 (Came back and tried to fix errors I saw in this file. It is getting a bit chaotic)
 - [X] Bonus 1 (Tried to fix my header)
+- [X] Bonus 2 (Fixed a "to" to a "so")
 
 
 - [ ] Merge 1
 - [ ] Merge 2
 
-**Don't Really know what else to edit so I am going to edit this. Also there is a back to this booklet called Markdom Syntax to expect to see that.**
+**Don't Really know what else to edit so I am going to edit this. Also there is a back to this booklet called Markdom Syntax so expect to see that.**
 
 As I said:
 >The real question is
